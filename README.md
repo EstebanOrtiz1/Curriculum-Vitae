@@ -36,8 +36,8 @@ Soy ingeniero en Sistemas y Tecnologías de la Información y comencé a ejercer
   - Licenciatura en Ingeniería en Sistemas y Tecnologías de la Información
 
 ## Idiomas
-- Español: Nativo
-- Inglés: Básico (A2)
+- **Español:** Nativo
+- **Inglés:** Básico (A2)
 
 ## Hobbies
 - Videojuegos
