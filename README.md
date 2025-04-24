@@ -8,12 +8,12 @@ Contactos:
 - [GitHub](https://github.com/EstebanOrtiz1)
 
 ## Resumen
-Soy ingeniero en Sistemas y Tecnologías de la Información y comencé a ejercer mi carrera en el sector tecnológico como desarrollador Full Stack. Especializado en desarrollos con React, TypeScript, .NET, C. Otras habilidades que tengo son el desarrollo de aplicaciones móviles, virtualización, cloud, minería de datos, redes, calidad de software y gestión de proyectos.
+Soy ingeniero en Sistemas y Tecnologías de la Información y comencé a ejercer mi carrera en el sector tecnológico como desarrollador Full Stack. Especializado en desarrollos con React, TypeScript, .NET, C#. Otras habilidades que desarrollé durante mis estudios son el desarrollo de aplicaciones móviles, virtualización, cloud, minería de datos, redes, calidad de software y gestión de proyectos.
 
 ## Habilidades técnicas
-- **Lenguajes:** JavaScript, C#, TypeScript, C++, Java, ASP
+- **Lenguajes:** JavaScript, C#, TypeScript, C++, Java
 - **Base de datos:** SQL, PostgreSQL
-- **Frameworks:** .NET, React, ASP.NET
+- **Frameworks:** React, .NET, ASP.NET
 - **Librerías:** Ant Design, Bootstrap, Material UI, Faker
 - **Herramientas y arquitecturas:** NetBeans, Android Studio, Oracle Virtual Machine, Docker, Azure (Funciones, Queue, App Services)
 
