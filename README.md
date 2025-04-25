@@ -37,8 +37,9 @@ Soy ingeniero en Sistemas y Tecnologías de la Información y comencé a ejercer
 - Encargado del registro de usuarios, y del préstamo de libros y películas en las diferentes áreas de la biblioteca.
 
 ## Educación
-- UNIVA (Universidad del Valle de Atemajac)
-  - Zapopan, Jalisco — 2017 - 2020
+### UNIVA (Universidad del Valle de Atemajac) - Zapopan, Jalisco
+2017 - 2020
+
   - Licenciatura en Ingeniería en Sistemas y Tecnologías de la Información
 
 ## Idiomas
